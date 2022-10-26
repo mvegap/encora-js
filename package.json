@@ -1,0 +1,11 @@
+{
+  "name": "encora-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mvegap/encora-js.git",
+  "author": "Miguel Vega <mvegaplm@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "node app.js"
+  }
+}
